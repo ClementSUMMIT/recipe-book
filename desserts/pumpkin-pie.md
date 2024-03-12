@@ -3,6 +3,7 @@
 
 ## Preparation
 
+
 - Remove most of seeds
 - Bake pumpkin/squash
 - Take out the inside of the pumpkin
